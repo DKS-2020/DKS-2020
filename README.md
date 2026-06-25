@@ -10,7 +10,6 @@
 - 🧩 **500+ DSA problems solved** in C++ — Strong problem solving foundation
 - 🐍 **Python** | 🗄️ **SQL** | ⚡ **C++** — My core stack
 - 📊 Currently building skills in **Data Analytics & AI/ML**
-- 🎯 Goal: **IIT MTech → Data Scientist → JP Morgan**
 - 📍 Chandigarh, India
 
 ---
